@@ -1,0 +1,11 @@
+body{
+    background-image: url(Image/bg2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+.center{
+    text-align: center;
+    color: green;
+}
