@@ -1,11 +1,43 @@
-body{
+body {
     background-image: url(Image/bg2.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     color: white;
 }
-.center{
+
+.center {
     text-align: center;
     color: green;
 }
+
+.youtube {
+    color: aqua;
+}
+
+#Up {
+    color: blanchedalmond;
+}
+
+.main_link{
+    color: red;
+    text-decoration: none;
+}
+.main_link:hover{
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+/* свойство при наведении */
+
+
+
+
+
+
+
+
+
+
+
+/* Its comment in CSS */
